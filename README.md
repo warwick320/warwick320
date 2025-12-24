@@ -1,14 +1,3 @@
-<div align="center">
-
-# warwick320
-
-I enjoy programming.
-
-</div>
-
-# About Me
-
-[![GitHub followers](https://img.shields.io/github/followers/warwick320?label=Follow&style=social)](https://github.com/warwick320)
 
 ##  Tech Stack
 
