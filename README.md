@@ -17,8 +17,3 @@
 ## Contact
 
 **discord:** zw.warwick
-
-## Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warwick320&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&locale=kr" alt="GitHub Stats">
-</div>
