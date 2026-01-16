@@ -17,3 +17,6 @@
 ## Contact
 
 **discord:** zw.warwick
+
+
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1381277508430856192?animated=true&animatedDecoration=true&hideDecoration=false&hideStatus=false&showDisplayName=true&forceGradient=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=true&hideSpotify=false&hideProfile=false&hideClan=false)](https://discord.com/users/1381277508430856192)
